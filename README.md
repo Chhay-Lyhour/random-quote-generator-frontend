@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-## Frontend
+## Frontend - create by chhay lyhour
 
 ## Tech Stack
 
