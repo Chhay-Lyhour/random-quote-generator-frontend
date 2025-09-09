@@ -2,10 +2,6 @@
 
 ## Frontend
 
-### By Chhay Lyhour
-
-#### A simple full-stack application that displays random quotes and allows users to add new ones. This project was built to practice integrating a separate frontend, backend, and database.
-
 ## Tech Stack
 
 UX/UI: Figma
