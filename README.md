@@ -4,16 +4,14 @@
 
 ## Tech Stack
 
-UX/UI: Figma
-Frontend: Next.js, Tailwind CSS, TypeScript, Shadcn UI
-Backend: NestJS, TypeScript
-Database: Neon (PostgreSQL) with Drizzle ORM
+- UX/UI: Figma
+- Frontend: Next.js, Tailwind CSS, TypeScript, Shadcn UI
+- Backend: NestJS, TypeScript
+- Database: Neon (PostgreSQL) with Drizzle ORM
 
 ## Features
 
-Generate a random quote with the click of a button.
-View all available quotes.
-Submit a new quote to the database.
+Generate a random quote with the click of a button from the database.
 
 ## Setup and Installation
 
