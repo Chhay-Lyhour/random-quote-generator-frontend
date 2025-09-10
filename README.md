@@ -2,6 +2,10 @@
 
 ## Frontend - create by chhay lyhour
 
+## Brief Description:
+
+This project is a straightforward quote generator that displays random quotes from a curated list. It was created as a practical exercise to enhance full-stack development skills by connecting a frontend, backend, and database.
+
 ## Tech Stack
 
 - UX/UI: Figma
